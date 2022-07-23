@@ -1,0 +1,337 @@
+{
+    "productos":[
+  {
+      "id": 1,
+      "title": "Nike SB Blazer “Supreme Black”",
+      "price": 400,
+      "image": "https://cdn.shopify.com/s/files/1/0963/3218/products/blk_55c25243-8867-480b-9f63-8ff7b5bbdc82_1000x.jpg?v=1658512395",
+      "category": "nike",
+      "descripcion": "Fusce sit amet justo nulla. Nulla luctus sodales nisi. Praesent aliquam libero eu fringilla consectetur. Fusce ut ultrices nulla. Morbi libero nunc, maximus ut arcu eu, dignissim hendrerit ante. Aenean non laoreet nisi. ",
+      "cantidad": 6 
+  },
+  {
+      "id": 2,
+      "title": "Nike Dunk Low Off-White Pine Green",
+      "price": 299,
+      "image": "https://stockx-360.imgix.net/Nike-Dunk-Low-Off-White-Pine-Green/Images/Nike-Dunk-Low-Off-White-Pine-Green/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1606319825&w=1000",
+      "category": "nike",
+      "descripcion": "Fusce sit amet justo nulla. Nulla luctus sodales nisi. Praesent aliquam libero eu fringilla consectetur. Fusce ut ultrices nulla. Morbi libero nunc, maximus ut arcu eu, dignissim hendrerit ante. Aenean non laoreet nisi. ",
+      "stock": 6 
+  },
+  {
+      "id": 3,
+      "title": "Nike Air Force 1 Low Supreme Black",
+      "price": 475,
+      "image": "https://stockx-360.imgix.net/Nike-Air-Force-1-Low-Supreme-Box-Logo-Black/Images/Nike-Air-Force-1-Low-Supreme-Box-Logo-Black/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1606325289&w=1000",
+      "category": "nike",
+      "descripcion": "Fusce sit amet justo nulla. Nulla luctus sodales nisi. Praesent aliquam libero eu fringilla consectetur. Fusce ut ultrices nulla. Morbi libero nunc, maximus ut arcu eu, dignissim hendrerit ante. Aenean non laoreet nisi. ",
+      "cantidad": 10
+    },
+    {
+      "id": 4,
+      "title": "Louis Vuitton Nike Air Force 1 Low “White Green”",
+      "price": 399,
+      "image": "https://cdn.shopify.com/s/files/1/0963/3218/products/louisforcegre_1000x.jpg?v=1655249233",
+      "category": "nike",
+      "descripcion": "Fusce sit amet justo nulla. Nulla luctus sodales nisi. Praesent aliquam libero eu fringilla consectetur. Fusce ut ultrices nulla. Morbi libero nunc, maximus ut arcu eu, dignissim hendrerit ante. Aenean non laoreet nisi. ",
+      "cantidad": 10
+    },
+    {
+      "id": 5,
+      "title": "Nike Dunk Low SP Kentucky (2021)",
+      "price": 400,
+      "image": "https://stockx-360.imgix.net/Nike-Dunk-Low-SP-Kentucky/Images/Nike-Dunk-Low-SP-Kentucky/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1606322330&w=1000",
+      "category": "nike",
+      "descripcion": "Fusce sit amet justo nulla. Nulla luctus sodales nisi. Praesent aliquam libero eu fringilla consectetur. Fusce ut ultrices nulla. Morbi libero nunc, maximus ut arcu eu, dignissim hendrerit ante. Aenean non laoreet nisi. ",
+      "cantidad": 12
+    },
+    {
+      "id": 6,
+      "title": "Nike Dunk Low Off-White University",
+      "price": 299,
+      "image": "https://stockx-360.imgix.net/Nike-Dunk-Low-Off-White-University-Red/Images/Nike-Dunk-Low-Off-White-University-Red/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1606321824&w=1000",
+      "category": "nike",
+      "descripcion": "Fusce sit amet justo nulla. Nulla luctus sodales nisi. Praesent aliquam libero eu fringilla consectetur. Fusce ut ultrices nulla. Morbi libero nunc, maximus ut arcu eu, dignissim hendrerit ante. Aenean non laoreet nisi. ",
+      "cantidad": 11
+    },
+    {
+      "id": 7,
+      "title": "Nike Air Max 2 Light Atmos (2020)",
+      "price": 450,
+      "image": "https://stockx-360.imgix.net/Nike-Air-Max-2-Light-Atmos/Images/Nike-Air-Max-2-Light-Atmos/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1606320966&w=1000",
+      "category": "nike",
+      "descripcion": "Fusce sit amet justo nulla. Nulla luctus sodales nisi. Praesent aliquam libero eu fringilla consectetur. Fusce ut ultrices nulla. Morbi libero nunc, maximus ut arcu eu, dignissim hendrerit ante. Aenean non laoreet nisi. ",
+      "cantidad": 14
+    },
+    {
+      "id": 8,
+      "title": "Nike Air Force 1 Low CLOT Blue Silk",
+      "price": 350,
+      "image": "https://stockx-360.imgix.net/Nike-Air-Force-1-Low-Clot-Blue-Silk/Images/Nike-Air-Force-1-Low-Clot-Blue-Silk/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1606325265&w=1000",
+      "category": "nike",
+      "descripcion": "Fusce sit amet justo nulla. Nulla luctus sodales nisi. Praesent aliquam libero eu fringilla consectetur. Fusce ut ultrices nulla. Morbi libero nunc, maximus ut arcu eu, dignissim hendrerit ante. Aenean non laoreet nisi. ",
+      "cantidad": 18
+    },
+    {
+      "id": 9,
+      "title": "Nike Air Max 90 OG Volt Green (2020)",
+      "price": 799,
+      "image": "https://stockx-360.imgix.net/Nike-Air-Max-90-OG-White-Particle-Grey-Volt/Images/Nike-Air-Max-90-OG-White-Particle-Grey-Volt/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1606323250&w=1000",
+      "category": "nike",
+      "descripcion": "Fusce sit amet justo nulla. Nulla luctus sodales nisi. Praesent aliquam libero eu fringilla consectetur. Fusce ut ultrices nulla. Morbi libero nunc, maximus ut arcu eu, dignissim hendrerit ante. Aenean non laoreet nisi. ",
+      "cantidad": 20
+    },
+    {
+      "id": 10,
+      "title": "Nike Dunk High Varsity Maize (2019)",
+      "price": 499,
+      "image": "https://stockx-360.imgix.net/Nike-Dunk-High-Black-Varsity-Maize/Images/Nike-Dunk-High-Black-Varsity-Maize/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1609445259&w=1000",
+      "category": "nike",
+      "descripcion": "Fusce sit amet justo nulla. Nulla luctus sodales nisi. Praesent aliquam libero eu fringilla consectetur. Fusce ut ultrices nulla. Morbi libero nunc, maximus ut arcu eu, dignissim hendrerit ante. Aenean non laoreet nisi. ",
+      "cantidad": 8
+    },
+    {
+      "id": 11,
+      "title": "Nike SB Dunk Low “Grateful Dead Bears Orange”",
+      "price": 3250,
+      "image": "https://cdn.shopify.com/s/files/1/0963/3218/products/orange_6302b31d-64e1-4f1b-b264-f361b392a4a9_1000x.jpg?v=1644959444",
+      "category": "nike",
+      "descripcion": "Fusce sit amet justo nulla. Nulla luctus sodales nisi. Praesent aliquam libero eu fringilla consectetur. Fusce ut ultrices nulla. Morbi libero nunc, maximus ut arcu eu, dignissim hendrerit ante. Aenean non laoreet nisi. ",
+      "cantidad": 6
+    },
+    {
+      "id": 12,
+      "title": "Nike Air Max 1 Atmos Animal 3.0 “Griaffe”",
+      "price": 500,
+      "image": "https://cdn.shopify.com/s/files/1/0963/3218/products/atmos_3b3e1bea-fd99-4066-9bdb-152b1498371f_1000x.jpg?v=1653334159",
+      "category": "nike",
+      "descripcion": "Fusce sit amet justo nulla. Nulla luctus sodales nisi. Praesent aliquam libero eu fringilla consectetur. Fusce ut ultrices nulla. Morbi libero nunc, maximus ut arcu eu, dignissim hendrerit ante. Aenean non laoreet nisi. ",
+      "cantidad": 6
+    },
+    {
+      "id": 13,
+      "title": "Air Jordan 1 Retro “J Balvin”",
+      "price": 640,
+      "image": "https://cdn.shopify.com/s/files/1/0963/3218/products/jb_1000x.jpg?v=1607527684",
+      "category": "Jordan",
+      "descripcion": "Fusce sit amet justo nulla. Nulla luctus sodales nisi. Praesent aliquam libero eu fringilla consectetur. Fusce ut ultrices nulla. Morbi libero nunc, maximus ut arcu eu, dignissim hendrerit ante. Aenean non laoreet nisi. ",
+      "cantidad": 6
+    },
+    {
+      "id": 14,
+      "title": "Air Jordan 1 Retro High OG Reimagined 2022",
+      "price": 700,
+      "image": "https://cdn.shopify.com/s/files/1/0963/3218/products/chicag_1000x.jpg?v=1657043433",
+      "category": "Jordan",
+      "descripcion": "Fusce sit amet justo nulla. Nulla luctus sodales nisi. Praesent aliquam libero eu fringilla consectetur. Fusce ut ultrices nulla. Morbi libero nunc, maximus ut arcu eu, dignissim hendrerit ante. Aenean non laoreet nisi. ",
+      "cantidad": 6
+    },
+    {
+      "id": 15,
+      "title": "Air Jordan 1 Retro “A Ma Maniere” ",
+      "price": 400,
+      "image": "https://cdn.shopify.com/s/files/1/0963/3218/products/jdkjk_1000x.jpg?v=1638038801",
+      "category": "Jordan",
+      "descripcion": "Fusce sit amet justo nulla. Nulla luctus sodales nisi. Praesent aliquam libero eu fringilla consectetur. Fusce ut ultrices nulla. Morbi libero nunc, maximus ut arcu eu, dignissim hendrerit ante. Aenean non laoreet nisi. ",
+      "cantidad": 6
+    },
+    {
+      "id": 16,
+      "title": "Air Jordan 1 Retro Low “Yellow Strike (W)”",
+      "price": 275,
+      "image": "https://cdn.shopify.com/s/files/1/0963/3218/products/lowyellow_1000x.jpg?v=1632334423",
+      "category": "Jordan",
+      "descripcion": "Brand New With Original Box Unless Stated Otherwise",
+      "cantidad": 6
+    },
+    {
+      "id": 17,
+      "title": "Air Jordan 1 Retro High “Fragment Travis Scott”",
+      "price": 3760,
+      "image": "https://cdn.shopify.com/s/files/1/0963/3218/products/farg_1000x.jpg?v=1627408215",
+      "category": "Jordan",
+      "descripcion": "Brand New With Original Box Unless Stated Otherwise",
+      "cantidad": 6
+    },
+    {
+      "id": 18,
+      "title": "Air Jordan 1 Retro High OG “Fragment”",
+      "price": 3760,
+      "image": "https://cdn.shopify.com/s/files/1/0963/3218/products/air-jordan-1-retro-high-og-fragment-13-16903518322784_1000x.jpg?v=1631608768",
+      "category": "Jordan",
+      "descripcion": "Brand New With Original Box Unless Stated Otherwise",
+      "cantidad": 6
+    },
+    {
+      "id": 19,
+      "title": "Air Jordan 1 Retro Low “Dior”",
+      "price": 8000,
+      "image": "https://cdn.shopify.com/s/files/1/0963/3218/products/diorlow_1000x.jpg?v=1652640948",
+      "category": "Jordan",
+      "descripcion": "Brand New With Original Box Unless Stated Otherwise",
+      "cantidad": 6
+    },
+    {
+      "id": 20,
+      "title": "Air Jordan 1 Retro “Old Love”",
+      "price": 8000,
+      "image": "https://cdn.shopify.com/s/files/1/0963/3218/products/oldlove_1000x.png?v=1648749602",
+      "category": "Jordan",
+      "descripcion": "Brand New With Original Box Unless Stated Otherwise",
+      "cantidad": 6
+    },
+    {
+      "id": 21,
+      "title": "Air Jordan 1 Retro Mid 'Gunsmoke Volt'",
+      "price": 440,
+      "image": "https://cdn.shopify.com/s/files/1/0963/3218/products/smoke_1000x.jpg?v=1652655078",
+      "category": "Jordan",
+      "descripcion": "Brand New With Original Box Unless Stated Otherwise",
+      "cantidad": 6
+    },
+    {
+      "id": 22,
+      "title": "Air Jordan 1 Mid “White Black Purple”",
+      "price": 440,
+      "image": "https://cdn.shopify.com/s/files/1/0963/3218/products/mid_c33073be-3ec5-4d3d-987b-72d9a7b5b37e_1000x.jpg?v=1654480523",
+      "category": "Jordan",
+      "descripcion": "Brand New With Original Box Unless Stated Otherwise",
+      "cantidad": 6
+    },
+    {
+      "id": 23,
+      "title": "Adidas Yeezy 350 V1 “Pirate Black”",
+      "price": 1050,
+      "image": "https://cdn.shopify.com/s/files/1/0963/3218/products/adidas-yeezy-350-v1-pirate-black-11-5-16844614303840_1000x.jpg?v=1631608952",
+      "category": "yeezy",
+      "descripcion": "Brand New With Original Box Unless Stated Otherwise",
+      "cantidad": 6
+    },
+    {
+      "id": 24,
+      "title": "Adidas Yeezy Boost 350 V1 “Oxford Tan”",
+      "price": 950,
+      "image": "https://cdn.shopify.com/s/files/1/0963/3218/products/adidas-yeezy-boost-350-v1-oxford-tan-10-16844613976160_1000x.jpg?v=1631608993",
+      "category": "yeezy",
+      "descripcion": "Brand New With Original Box Unless Stated Otherwise",
+      "cantidad": 6
+    },
+    {
+      "id": 25,
+      "title": "Adidas Yeezy Foam RNNR “ARARAT”",
+      "price": 740,
+      "image": "https://cdn.shopify.com/s/files/1/0963/3218/products/ara_1000x.jpg?v=1654885021",
+      "category": "yeezy",
+      "descripcion": "Brand New With Original Box Unless Stated Otherwise",
+      "cantidad": 6
+    },
+    {
+      "id": 26,
+      "title": "Adidas Yeezy Foam RNNR “MXT Moon Grey”",
+      "price": 410,
+      "image": "https://cdn.shopify.com/s/files/1/0963/3218/products/moon_d7028362-7460-41fc-8b30-e7dff6017af8_1000x.jpg?v=1617280488",
+      "category": "yeezy",
+      "descripcion": "Brand New With Original Box Unless Stated Otherwise",
+      "cantidad": 6
+    },
+    {
+      "id": 27,
+      "title": "Adidas Yeezy Boost 350 V2 “Onyx“",
+      "price": 385,
+      "image": "https://cdn.shopify.com/s/files/1/0963/3218/products/onyx_92c68397-f87f-4ce0-bb4c-a885410d1914_1300x.jpg?v=1655997099",
+      "category": "yeezy",
+      "descripcion": "Brand New With Original Box Unless Stated Otherwise",
+      "cantidad": 6
+    },
+    {
+      "id": 28,
+      "title": "Adidas Yeezy Boost 350 V2 “Bone”",
+      "price": 370,
+      "image": "https://cdn.shopify.com/s/files/1/0963/3218/products/pureoat_1000x.jpg?v=1642519613",
+      "category": "yeezy",
+      "descripcion": "Brand New With Original Box Unless Stated Otherwise",
+      "cantidad": 6
+    },
+    {
+      "id": 29,
+      "title": "Adidas Yeezy Boost 350 V2 “Beluga Reflective”",
+      "price": 350,
+      "image": "https://cdn.shopify.com/s/files/1/0963/3218/products/brf_1000x.jpg?v=1638296812",
+      "category": "yeezy",
+      "descripcion": "Brand New With Original Box Unless Stated Otherwise",
+      "cantidad": 6
+    },
+    {
+      "id": 30,
+      "title": "Adidas Yeezy Boost 350 V2 CMPCT “Slate Blue”",
+      "price": 360,
+      "image": "https://cdn.shopify.com/s/files/1/0963/3218/products/slate_d821c1cd-89bd-4464-88e4-45a163971ca3_1000x.jpg?v=1639353810",
+      "category": "yeezy",
+      "descripcion": "Brand New With Original Box Unless Stated Otherwise",
+      "cantidad": 6
+    },
+    {
+      "id": 31,
+      "title": "Adidas Yeezy Boost 350 V2 “UV Light”",
+      "price": 410,
+      "image": "https://cdn.shopify.com/s/files/1/0963/3218/products/light_85f098e7-f21f-4412-bae7-b195f11ce1c2_1000x.jpg?v=1632616679",
+      "category": "yeezy",
+      "descripcion": "Brand New With Original Box Unless Stated Otherwise",
+      "cantidad": 6
+    },
+    {
+      "id": 32,
+      "title": "Adidas Yeezy Boost 350 V2 “Ash Stone”",
+      "price": 320,
+      "image": "https://cdn.shopify.com/s/files/1/0963/3218/products/stone_9bc86608-4ec4-4700-89c7-05acef04f671_1000x.jpg?v=1615883261",
+      "category": "yeezy",
+      "descripcion": "Brand New With Original Box Unless Stated Otherwise",
+      "cantidad": 6
+    },
+    {
+      "id": 33,
+      "title": "Adidas Yeezy Boost 350 “Core Black Red”",
+      "price": 400,
+      "image": "https://cdn.shopify.com/s/files/1/0963/3218/products/corered_1000x.jpg?v=1614305649",
+      "category": "yeezy",
+      "descripcion": "Brand New With Original Box Unless Stated Otherwise",
+      "cantidad": 6
+    },
+    {
+      "id": 34,
+      "title": "Adidas Yeezy 350 V2 “Oreo”",
+      "price": 440,
+      "image": "https://cdn.shopify.com/s/files/1/0963/3218/products/adidas-yeezy-350-v2-oreo-4-16844292161632_1000x.jpg?v=1631608877",
+      "category": "yeezy",
+      "descripcion": "Brand New With Original Box Unless Stated Otherwise",
+      "cantidad": 6
+    },
+    {
+      "id": 35,
+      "title": "Adidas Yeezy 350 V2 “Sulfur”",
+      "price": 460,
+      "image": "https://cdn.shopify.com/s/files/1/0963/3218/products/sulfur_1000x.jpg?v=1614291549",
+      "category": "yeezy",
+      "descripcion": "Brand New With Original Box Unless Stated Otherwise",
+      "cantidad": 6
+    },
+    {
+      "id": 36,
+      "title": "Adidas Yeezy Boost 350 V2 “Blue Tint”",
+      "price": 375,
+      "image": "https://cdn.shopify.com/s/files/1/0963/3218/products/adidas-yeezy-boost-350-v2-blue-tint-9-16844270895200_1000x.jpg?v=1631608829",
+      "category": "yeezy",
+      "descripcion": "Brand New With Original Box Unless Stated Otherwise",
+      "cantidad": 6
+    },
+    {
+      "id": 37,
+      "title": "Adidas Yeezy Boost 350 V2 “Black Non-Reflective”",
+      "price": 750,
+      "image": "https://cdn.shopify.com/s/files/1/0963/3218/products/adidas-yeezy-boost-350-v2-black-non-reflective-5-16844323586144_1000x.jpg?v=1631077154",
+      "category": "yeezy",
+      "descripcion": "Brand New With Original Box Unless Stated Otherwise",
+      "cantidad": 6
+    }
+  ]
+}
