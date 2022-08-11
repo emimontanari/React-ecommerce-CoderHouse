@@ -1,0 +1,77 @@
+.card-img-products{
+    width: 310px;
+    height: 275px;
+    object-fit: contain;
+}
+
+.card {
+    width: 280px;
+    height: 400px;
+    background: rgb(46, 44, 44);
+    transition: all 300ms;
+    margin: 40px auto;
+    padding: 10px;
+   }
+
+.card:hover {
+    transform: scale(1.10);
+}
+
+.card-title{
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    font-weight: 900;
+    text-align: center;
+    margin-bottom: 10px;
+    color: #000000;
+}
+.card-category{
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    font-weight: 900;
+    color: #000000;
+    text-align: center;
+    text-transform: uppercase;
+}
+.card-price {
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    font-weight: 900;
+    text-align: center;
+    color: #000000;
+}
+.card-image{
+    width: 100%;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+.boton {
+    background-image: linear-gradient(45deg, #FF512F 0%, #F09819  51%, #FF512F  100%)
+   }
+
+.boton{
+    width: 100%;
+    font-size: 16px;
+    padding: 10px 10px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: #FAF3E3;
+    border-radius: 10px;
+    display: inline-block;
+    border: 0px;
+    box-shadow: 0px 0px 14px -7px #f09819;
+    cursor: pointer;
+    font-weight: 700;
+   }
+.boton:hover{
+    background-position: right center;
+    color: #FAF3E3;
+    text-decoration: none;
+}
+
+.boton:active {
+    transform: scale(0.95);
+}
