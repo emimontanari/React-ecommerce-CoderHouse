@@ -17,7 +17,7 @@ Correr el proyecto con
 ## 🔨 API creada mediante firebase (https://firebase.google.com)
 
 ## GIF del proyecto
-![image](https://github.com/emimontanari/React-ecommerce-CoderHouse/blob/main/ProyectoCoderHouse.gif)
+![image](https://github.com/emimontanari/React-ecommerce-CoderHouse/blob/main/Proyecto-CoderHouse.gif)
 
 
 ## Authors 👨🏼‍💻 🚀
